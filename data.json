@@ -1,0 +1,16 @@
+[
+  {
+    img: "https://excessiveamountsofzombies.github.io/assets/foods/apple_juice.png",
+    name: "Elma Suyu",
+    price: 10,
+    currency: "Demir",
+    stack: false,
+  },
+  {
+    img: "https://raw.githubusercontent.com/vectorwing/FarmersDelight/1.20/src/main/resources/assets/farmersdelight/textures/item/grilled_salmon.png",
+    name: "Grilled Salmon",
+    price: 2,
+    currency: "Elmas",
+    stack: true,
+  }
+]
