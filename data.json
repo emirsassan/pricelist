@@ -12,5 +12,12 @@
     "price": 2,
     "currency": "Elmas",
     "stack": true
+  },
+  {
+    "img": "https://raw.githubusercontent.com/vectorwing/FarmersDelight/1.20/src/main/resources/assets/farmersdelight/textures/item/roast_chicken.png",
+    "isim": "Roasted Chicken",
+    "price": 1,
+    "currency": "Elmas",
+    "stack": false
   }
 ]
