@@ -19,5 +19,12 @@
     "price": 4,
     "currency": "Elmas",
     "stack": true
+  },
+  {
+    "img": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/v3_1.20.4/src/main/resources/assets/croptopia/textures/item/toast.png",
+    "isim": "Toast",
+    "price": 2,
+    "currency": "Elmas",
+    "stack": true
   }
 ]
