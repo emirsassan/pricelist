@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "img": "https://excessiveamountsofzombies.github.io/assets/foods/apple_juice.png",
     "isim": "Elma Suyu",
     "price": 2,
@@ -7,6 +8,7 @@
     "stack": false
   },
   {
+    "id": 2,
     "img": "https://raw.githubusercontent.com/vectorwing/FarmersDelight/1.20/src/main/resources/assets/farmersdelight/textures/item/grilled_salmon.png",
     "isim": "Grilled Salmon",
     "price": 4,
@@ -14,6 +16,7 @@
     "stack": true
   },
   {
+    "id": 3,
     "img": "https://raw.githubusercontent.com/vectorwing/FarmersDelight/1.20/src/main/resources/assets/farmersdelight/textures/item/roast_chicken.png",
     "isim": "Roasted Chicken",
     "price": 4,
@@ -21,6 +24,7 @@
     "stack": true
   },
   {
+    "id": 4,
     "img": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/v3_1.20.4/src/main/resources/assets/croptopia/textures/item/toast.png",
     "isim": "Toast",
     "price": 2,
