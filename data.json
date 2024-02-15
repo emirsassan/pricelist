@@ -30,5 +30,29 @@
     "price": 2,
     "currency": "Elmas",
     "stack": true
+  },
+  {
+    "id": 5,
+    "img": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/v3_1.20.4/src/main/resources/assets/croptopia/textures/item/noodle_soup.png",
+    "isim": "Noodle Soup",
+    "price": 4,
+    "currency": "Elmas",
+    "stack": true
+  },
+  {
+    "id": 6,
+    "img": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/v3_1.20.4/src/main/resources/assets/croptopia/textures/item/bone_broth.png",
+    "isim": "Bone Broth",
+    "price": 2,
+    "currency": "Demir",
+    "stack": false
+  },
+  {
+    "id": 7,
+    "img": "https://raw.githubusercontent.com/ExcessiveAmountsOfZombies/Croptopia/v3_1.20.4/src/main/resources/assets/croptopia/textures/item/honey_cookie.png",
+    "isim": "Honey Cookie",
+    "price": 32,
+    "currency": "Demir",
+    "stack": true
   }
 ]
